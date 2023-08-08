@@ -1,0 +1,12 @@
+npm create vite@latest
+-to begin project
+
+npm i
+-to install dependencies
+
+npm run dev
+-to start server through the enabled 'scripts' in package.json
+
+
+20:45
+https://www.youtube.com/watch?v=Rh3tobg7hEo
