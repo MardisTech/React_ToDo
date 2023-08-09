@@ -1,5 +1,5 @@
 npm create vite@latest
--to begin project
+-to scaffold project
 
 npm i
 -to install dependencies
@@ -8,5 +8,5 @@ npm run dev
 -to start server through the enabled 'scripts' in package.json
 
 
-28:07
+34:30
 https://www.youtube.com/watch?v=Rh3tobg7hEo
